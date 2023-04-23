@@ -17,7 +17,7 @@ echo "Memory Utilization"
 free -m
 echo
 
-# Disk Utilization
+# This script prints Disk Utilization
 echo "#####################################"
 echo "Disk Utilization"
 df -h
